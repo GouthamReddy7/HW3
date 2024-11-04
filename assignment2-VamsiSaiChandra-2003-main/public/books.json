@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Atomic Habits",
+    "description": "An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear.",
+    "price": 18.99,
+    "image": "BOOK 1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Subtle Art of Not Giving a Kiss",
+    "description": "A Counterintuitive Approach to Living a Good Life by Mark Manson.",
+    "price": 15.49,
+    "image": "BOOK 2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Educated: A Memoir",
+    "description": "A Memoir by Tara Westover detailing her life growing up in a strict and abusive household in rural Idaho.",
+    "price": 14.99,
+    "image": "BOOK 3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sapiens",
+    "description": "A Brief History of Humankind by Yuval Noah Harari.",
+    "price": 19.99,
+    "image": "BOOK 4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Becoming",
+    "description": "The memoir of former First Lady Michelle Obama.",
+    "price": 18.49,
+    "image": "BOOK 5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Where the Crawdads Sing",
+    "description": "A mystery novel by Delia Owens, set in the marshes of North Carolina.",
+    "price": 16.99,
+    "image": "BOOK 6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Alchemist",
+    "description": "A novel by Paulo Coelho about a young shepherd on a journey to find his personal destiny.",
+    "price": 12.49,
+    "image": "BOOK 7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "The Midnight Library",
+    "description": "A novel by Matt Haig about choices, regrets, and infinite possibilities.",
+    "price": 14.49,
+    "image": "BOOK 8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "1984",
+    "description": "A dystopian novel by George Orwell that explores themes of government surveillance and totalitarianism.",
+    "price": 11.99,
+    "image": "BOOK 9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "The Power of Now",
+    "description": "A Guide to Spiritual Enlightenment by Eckhart Tolle, exploring the power of living in the present moment.",
+    "price": 13.99,
+    "image": "BOOK 10.jpg"
+  }
+]
